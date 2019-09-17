@@ -1,0 +1,15 @@
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\appsettings.json
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\ChatBotTrial.deps.json
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\ChatBotTrial.runtimeconfig.json
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\ChatBotTrial.runtimeconfig.dev.json
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\ChatBotTrial.dll
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\bin\Debug\netcoreapp2.1\ChatBotTrial.pdb
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.csprojAssemblyReference.cache
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.csproj.CoreCompileInputs.cache
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.RazorAssemblyInfo.cache
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.RazorAssemblyInfo.cs
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.AssemblyInfoInputs.cache
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.AssemblyInfo.cs
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.RazorTargetAssemblyInfo.cache
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.dll
+D:\GithubChatbotTrial\ChatBotTest\ChatBotTrial\ChatBotTrial\obj\Debug\netcoreapp2.1\ChatBotTrial.pdb

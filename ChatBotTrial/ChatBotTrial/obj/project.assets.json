@@ -10700,11 +10700,12 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.3.0": {
-      "sha512": "CpVfOH0M/uZ5PH+M9+Gu56K0j9lJw3M+PKRegTkcrY/stOIvRUeonggxNrfBYLA5WOHL2j15KNJuTuld3x4o9w==",
+      "sha512": "Ma/DVHfRcOcgQFHVGafUrT7hT1IitsnmUjpNZG5xJCYrI/8wfaYKGYNZycxQyl9Nk+9IAJiMJE6RFuavRQ2WEg==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -12396,23 +12397,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paxstan.cp\\.nuget\\packages\\": {},
+    "C:\\Users\\jeslin.pj\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
+      "projectUniqueName": "D:\\GithubChatbotTrial\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
       "projectName": "ChatBotTrial",
-      "projectPath": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
-      "packagesPath": "C:\\Users\\paxstan.cp\\.nuget\\packages\\",
-      "outputPath": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\obj\\",
+      "projectPath": "D:\\GithubChatbotTrial\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
+      "packagesPath": "C:\\Users\\jeslin.pj\\.nuget\\packages\\",
+      "outputPath": "D:\\GithubChatbotTrial\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paxstan.cp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jeslin.pj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
