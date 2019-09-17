@@ -21,5 +21,10 @@ namespace ChatBotTrial
 				}
 			}
 		}
+		
+		protected override async Task OnConversationUpdateActivityAsync(ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
+		{
+			await turnContext.SendActivityAsync(MessageFactory.Text($"{turnContext.Activity.Type}"), cancellationToken);
+		}
 	}
 }
