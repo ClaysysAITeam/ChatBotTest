@@ -11,7 +11,11 @@ namespace ChatBotTrial
 {
 	public class EmptyBot : ActivityHandler
 	{
-		protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
+        protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
+        {
+            await turnContext.SendActivityAsync(MessageFactory.Text($"You typed: {turnContext.Activity.Text}"), cancellationToken);
+        }
+        protected override async Task OnMembersAddedAsync(IList<ChannelAccount> membersAdded, ITurnContext<IConversationUpdateActivity> turnContext, CancellationToken cancellationToken)
 		{
 			foreach (var member in membersAdded)
 			{
