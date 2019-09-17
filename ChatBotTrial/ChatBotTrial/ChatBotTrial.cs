@@ -17,7 +17,7 @@ namespace ChatBotTrial
 			{
 				if (member.Id != turnContext.Activity.Recipient.Id)
 				{
-					await turnContext.SendActivityAsync(MessageFactory.Text($"bot!"), cancellationToken);
+					await turnContext.SendActivityAsync(MessageFactory.Text($"Welcome bot!"), cancellationToken);
 				}
 			}
 		}
