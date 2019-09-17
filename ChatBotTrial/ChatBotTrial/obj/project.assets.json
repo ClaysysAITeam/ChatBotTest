@@ -12402,11 +12402,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paxstan.cp\\source\\repos\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
+      "projectUniqueName": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
       "projectName": "ChatBotTrial",
-      "projectPath": "C:\\Users\\paxstan.cp\\source\\repos\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
+      "projectPath": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\ChatBotTrial.csproj",
       "packagesPath": "C:\\Users\\paxstan.cp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paxstan.cp\\source\\repos\\ChatBotTrial\\ChatBotTrial\\obj\\",
+      "outputPath": "D:\\paxstan\\ai\\ChatBotTest\\ChatBotTrial\\ChatBotTrial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
